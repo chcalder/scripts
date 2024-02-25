@@ -1,0 +1,7 @@
+AADGroupDisplayName,DurationInDays,DurationInHours,Rolepermission,AssignmentState,Reason
+SG-WF-AAD-PIMAdmin,365,10,Privileged Role Administrator,Eligible,
+SG-WF-AAD-IntuneAdmin,365,10,Intune Administrator,Eligible,
+SG-WF-AAD-ApplicationAdmin,365,10,Application Administrator,Eligible,
+SG-WF-AAD-AppAdmin,365,5,Application Administrator,Active,Add reason here.
+SG-WF-AAD-AppAdmin,365,5,Cloud Application Administrator,Active,Add reason here.
+SG-WF-AAD-AppAdmin,365,5,Teams Administrator,Active,Add reason here.

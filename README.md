@@ -23,6 +23,7 @@ Here’s a brief overview of the scripts included:
 - [LanguageTranslatorFunction.ps1](LanguageTranslatorFunction.ps1): Function to support language translation. 
 - [AuditApplicationImpersonationPermissions.ps1](AuditApplicationImpersonationPermissions.ps1) - This script retrieves all users with the ApplicationImpersonation role assigned
 - [GetUnregisteredMFAUsers.ps1](GetUnregisteredMFAUsers.ps1) - Get a list of all users and their MFA status.
+- [CreatePIMAssignments.ps1](CreatePIMAssignments.ps1) - Creates PIM Assignments in Entra ID based on input file [Input file](PIMAssignmentsInputs.csv).
 …
 
 ## Usage
