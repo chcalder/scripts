@@ -19,11 +19,11 @@ This collection of scripts covers a wide range of tasks and utilities.
 ## Scripts Overview
 Here’s a brief overview of the scripts included:
 
-- [LanguageTranslator.ps1](IEF_LanguageTranslator.ps1): Translate localization values for different language support for Azure B2C custom policies. 
-- [LanguageTranslatorFunction.ps1](LanguageTranslatorFunction.ps1): Function to support language translation. 
-- [AuditApplicationImpersonationPermissions.ps1](AuditApplicationImpersonationPermissions.ps1) - This script retrieves all users with the ApplicationImpersonation role assigned
-- [GetUnregisteredMFAUsers.ps1](GetUnregisteredMFAUsers.ps1) - Get a list of all users and their MFA status.
-- [CreatePIMAssignments.ps1](CreatePIMAssignments.ps1) - Creates PIM Assignments in Entra ID based on input file [Input file](PIMAssignmentsInputs.csv).
+- [LanguageTranslator.ps1](./misc/IEF_LanguageTranslator.ps1): Translate localization values for different language support for Azure B2C custom policies. 
+- [LanguageTranslatorFunction.ps1](./misc/LanguageTranslatorFunction.ps1): Function to support language translation. 
+- [AuditApplicationImpersonationPermissions.ps1](./cybersecurity/AuditApplicationImpersonationPermissions.ps1) - This script retrieves all users with the ApplicationImpersonation role assigned
+- [GetUnregisteredMFAUsers.ps1](./cybersecurity/GetUnregisteredMFAUsers.ps1) - Get a list of all users and their MFA status.
+- [CreatePIMAssignments.ps1](./entraID/CreatePIMAssignments.ps1) - Creates PIM Assignments in Entra ID based on input file [Input file](./entraID/PIMAssignmentsInputs.csv).
 …
 
 ## Usage
